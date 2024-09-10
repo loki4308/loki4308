@@ -6,7 +6,7 @@
 
 - 🔭 Here's my [portfolio](https://yogeshwaran-web.netlify.app/)  
 - 🌱 I’m currently learning DSA
-- 📫 How to reach me : [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+- 📫 How to reach me : <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.                                        
 
